@@ -13,21 +13,6 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
-Package: dyhook
-Version: 2.1.0
-Architecture: iphoneos-arm64
-Maintainer: <xuanhua880@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音图层_2.1.0.deb
-Size: 2836200
-MD5sum: 55992afbea4ed6b69f0b064c054ad218
-SHA1: d38b3974dff3e368237f53d43d04e89c1c826279
-SHA256: 75c4b066190a6147680de80d1b615737297e959d119272f6687920393e818f8c
-Section: Tweaks
-Description: 抖音离线版本，长期使用，真正无限制的使用！快手图层，小红书图层直接用（小红书图层和快手图层只需安装官方版）
-Author: <xuanhua880@gmail.com>
-Name: 抖音图层离线版
-
 Package: com.dyhook
 Version: 2.0.8-8
 Architecture: iphoneos-arm64
