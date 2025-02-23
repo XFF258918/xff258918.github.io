@@ -13,6 +13,26 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: MikotoHelper
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: MikotoHelper
+Replaces: MikotoHelper
+Provides: MikotoHelper
+Filename: ./debs/MikotoHelper.deb
+Size: 20895920
+MD5sum: f0fa7a1ea2decc29c88270203457cdb0
+SHA1: abeb74d256dac3b8410638a96a5a9ec970fd70ff
+SHA256: 98304e01ad6613b044522b2eccc29dffbe1bbe6e035fd18ea4098a9a21ca2a7e
+Section: Tweaks
+Priority: optional
+Description: MikotoHelper
+Author: Mikoto
+Name: MikotoHelper
+
 Package: net.qjkqdbyx
 Version: 0.0.4
 Architecture: iphoneos-arm64
