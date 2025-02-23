@@ -14,15 +14,15 @@ Author: Mao
 Name: 左滑返回
 
 Package: net.qjkqdbyx
-Version: 0.0.2
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: Huayuarc
 Depends: mobilesubstrate
 Filename: ./debs/全局杜比.deb
-Size: 5552
-MD5sum: 1109e59d00ef98454b436edc8e207628
-SHA1: 877b96d5772ac0ad1810a82375f408b7db712a0f
-SHA256: ccb2b46588ce315e88f8145c482f96762aaa531e2a1b7d23c9e7d68d288c4678
+Size: 5640
+MD5sum: 05eae433b5ed59085b8a32b19d221241
+SHA1: b14950d742480b5b7922d161e343e4feb8f3bb80
+SHA256: a3ab7952f7c2fd974b63778ac12961a5b69fcf0567a52764e7aff84e40fdf865
 Description: 全局开启杜比音效、杜比音效和普通音效的区别在于杜比音效加强了立体声效果和低音效果
 Author: Huayuarc
 Name: 全局开启杜比音效
