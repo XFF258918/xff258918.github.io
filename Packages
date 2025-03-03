@@ -74,22 +74,6 @@ Description: 让你的APP角标变的灵动起来，就是会动，无设置项
 Author: Phuc Do
 Name: Badge灵动角标
 
-Package: com.0xkuj.safarix
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 792
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/Safarix_9.9.9_iphoneos-arm64.deb
-Size: 291568
-MD5sum: cc7305e755511a3f0c353a55ddfa7d37
-SHA1: 0026e5a7465c865d45041d20f94c6b78a8f3e747
-SHA256: 6b2cd6796abf632393f652f1e7a6266f31ad1cc2b8e9c6f4a20df9f352fa62a8
-Section: Tweaks
-Description: Safari增强（原1.9.7版）
-Author: 0xkuj
-Name: SafariX
-
 Package: com.yan.stella
 Version: 1.1.5
 Architecture: iphoneos-arm64
