@@ -33,10 +33,10 @@ Architecture: iphoneos-arm64
 Maintainer: x✨ <xuanhua880@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/抖音图层.deb
-Size: 2761908
-MD5sum: d90c522f180a9044511ff4f511765c88
-SHA1: 4288c31c39be11290211afd0e5cc339c9aaeef93
-SHA256: ad4de2e5b7943930b9f22d026a526acf553dbd4b17a7b3341ad3fc87b1d7e349
+Size: 2755460
+MD5sum: ce4d98665529f510b4d48b631921af26
+SHA1: 761a431ed1a0e44e5a1d398ea65569d1e2b74772
+SHA256: 994c9056bd4c983dbbf59eb7517a32f09ffdc0f010629e788c0baba381c8b284
 Section: Tweaks
 Description: 抖音离线版本，长期使用，真正无限制的使用！快手图层，小红书图层直接用（小红书图层和快手图层只需安装官方版）
 Author: x✨ <xuanhua880@gmail.com>
