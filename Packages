@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: codes.aurora.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/kayoko_2.8.deb
+Size: 126764
+MD5sum: 2bfd87e72e2cdab0583bc23a725fc21a
+SHA1: 4dbf0c316165ca20c5a5f4aa2dbc7c6e7db62913
+SHA256: b43baa095b1fe805d8c55bd6f4c8c18e7d915db174227bdd8d444d98f825ae71
+Section: Tweaks
+Description: iOS版剪贴板管理器。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
 Package: net.freepip
 Version: 0.0.5
 Architecture: iphoneos-arm64
@@ -820,22 +836,6 @@ Author: udevs
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
 Name: DebHoarder
-
-Package: codes.aurora.kayoko
-Version: 2.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 936
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/kayoko_2.7_iphoneos-arm64.deb
-Size: 123788
-MD5sum: cd8486dfb009421a246f819fc5dc3553
-SHA1: 0b50845df60f6caefee5612ced5367b6102b7976
-SHA256: 6c3436be6d55d9b91f19e9add380b887a177b1e1e46eb728c9cf827cb92ece39
-Section: Tweaks
-Description: iOS版剪贴板管理器。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
 
 Package: com.nightwind.jade
 Version: 1.0.3
