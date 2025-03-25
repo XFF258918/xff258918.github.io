@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/微信消息直达.deb
+Size: 23132
+MD5sum: 2f2994b56a7f97eb3659aea3367fac97
+SHA1: 18f95d0f54415d3e75d77a79391e751e1a881949
+SHA256: 85e1a1e344f8fb67c4d28085b3bc72815f566f5d1c83a025347ee967f08ac1cb
+Section: Tweaks
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Author: be-huge
+Name: 微信消息直达
+
 Package: codes.aurora.kayoko
 Version: 2.8
 Architecture: iphoneos-arm64
