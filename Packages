@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.ccborder
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: ./debs/CCborder16.deb
+Size: 27888
+MD5sum: 56ccecd5cae369378a86f74d985191a8
+SHA1: 8fa533d251e9c0e38ea17545dfe6b4098e79a010
+SHA256: c00a8aa258a66f577db195471e57d6b5b0aa33c072f593b9b25554f4794910f3
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
+Author: fiore & p2kdev
+Name: CCBorder16
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1185,21 +1201,6 @@ SHA1: a27c919b0c20531d37cc13646c7d885dc79c6259
 SHA256: 53b0a8ec783a9759b968ef979f7f48ad7d8a3e1d51d0836bf6ea119f8c82d048
 Description: 系统相机开启全屏拍照，禁用拍照提示音
 Name: 全屏相机
-
-Package: com.dao.ccborder
-Version: 1.1.8
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 448
-Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/CCBorder16.deb
-Size: 66924
-MD5sum: 6a2a65997f02922220a23fcf981a05ec
-SHA1: 6e3adfa144fcbba9d3b78244428dd7112b9f8bb1
-SHA256: ab54058f2b3d8bd79c44cdac76dd09ed3463a8e51345026d12337ffd6e786045
-Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
-Name: CCBorder16
 
 Package: net.alpine
 Version: 1.4
