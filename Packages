@@ -1112,18 +1112,6 @@ Description: 播放媒体时保持通知静音
 Author: dvntm
 Name: SilentNotifs
 
-Package: com.Virtual.Toolbox
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 123
-Filename: ./debs/虚拟工具箱_iphoneos-arm64.deb
-Size: 194676
-MD5sum: d4b2cca1e7b5d193ff4a5ae66cbae64b
-SHA1: a3f32895f59c1b528f73bb1129f27f91aab17bf2
-SHA256: 45ff2683c6eed6bd8d524a156fd59ca1c160edf121c20d6332757848f73623b0
-Description: 三指双击或双击导航栏（基本就是app顶部位置）调出悬浮标或菜单
-Name: 虚拟工具箱
-
 Package: ThemePro
 Version: 3.1.0
 Architecture: iphoneos-arm64
