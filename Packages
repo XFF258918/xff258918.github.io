@@ -13,6 +13,40 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.nightwind.jade
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Installed-Size: 1502
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Jade_1.0.5_iphoneos-arm64.deb
+Size: 308018
+MD5sum: 461b5c545086a91996b1811231ebfa48
+SHA1: 172b2b9a1f5385add0ec49212e1e5343601896ea
+SHA256: e5ecff965f34531f7ad8deb0375b901c7eff55e2ed682198dcd8d78fac69c5a2
+Section: Tweaks
+Description: Your control center, brought anew.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depiction: https://chariz.com/buy/jade
+Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
+Name: Jade
+
+Package: com.siriplus
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: uckermark
+Installed-Size: 1744
+Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, com.opa334.ccsupport, mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/SiriPlus_1.3_iphoneos-arm64.deb
+Size: 272208
+MD5sum: aff5d907356e50d02d51c21683181049
+SHA1: 4a431acd745c17ba01810aa51d5dbaa360ebdcf8
+SHA256: 0bc75a9e57be85abe47af39e6974853b811b64e4f3c3ebbfce6488a13f7030b2
+Description: SiriPlus是用ChatGPT或Gemini取代Siri的一个调整，通过最强大的大型语言模型为用户提供增强的功能、广泛的知识和个性化帮助。
+Author: Uckermark
+Name: SiriPlus
+
 Package: com.ccborder
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -868,24 +902,6 @@ Author: udevs
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
 Name: DebHoarder
-
-Package: com.nightwind.jade
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Nightwind
-Installed-Size: 1509
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/Jade_1.0.3_iphoneos-arm64.deb
-Size: 308660
-MD5sum: f69f6a9892816907eec14333157c2fa5
-SHA1: c1890938a1d5f5ea5196578ed608c11d6a36d08b
-SHA256: 94870342ceb877edfe4277c836538eb924b1ab45f9afbf0e875a4f4e1736923f
-Section: Nightwind
-Description: 重新定义控制中心，屏幕底部弹出
-Author: Nightwind and thetimeloop
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Jade
-Sponsor: Nightwind
 
 Package: com.AutoScroll
 Version: 1.0
