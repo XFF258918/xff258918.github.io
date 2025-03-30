@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.jade
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Installed-Size: 1502
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Jade_1.0.5_iphoneos-arm64.deb
+Size: 307672
+MD5sum: 7c79ad2f6a665b90d5ee590d78ccf9da
+SHA1: 2632ec88a27a1d470750287b06c7652015a304cf
+SHA256: 1764f36cf1fb653d4572a9de370e1142cf59c623814bcee81add2d52cc83e5cc
+Section: Tweaks
+Description: Your control center, brought anew.
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Name: Jade
+
 Package: com.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64
