@@ -63,6 +63,7 @@ Author: 妖刀
 Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
 Name: 去除弹窗分割线
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
+
 Package: com.jade
 Version: 1.0.5
 Architecture: iphoneos-arm64
