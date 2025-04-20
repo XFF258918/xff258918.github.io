@@ -13,6 +13,56 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: cn.zqbb.musicrotation
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/控制中心音乐旋转.deb
+Size: 7992
+MD5sum: 7c93395f0d90f626554a0cf21a6b8ea2
+SHA1: c6c47de034193e76bca02dd2c9f041d7fec7ccd9
+SHA256: 915f36bf96f94066f08694c56f8c68ff02ab1c55552180405a7233a4503534ef
+Section: 控制中心
+Description: 控制中心音乐专辑旋转。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/02/a2c35da350e7d354fc9b2cc9df5a7db5.jpeg
+Name: 音乐旋转
+
+Package: com.lly.ghallownetwork
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/软件自动联网.deb
+Size: 8052
+MD5sum: 0ef91b11e79cf8ab90de351a9fe9eff8
+SHA1: ca53313af8203428d64d812fb1e1a03545189101
+SHA256: fc0cfbb1dc44add2358b7f2a22a2baff3162293e83226753452c77329d369dfc
+Section: Tweaks
+Description: 国行手机自动允许使用网络。
+Author: lenglengyu
+Name: 允许软件自动联网
+
+Package: com.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: ./debs/去除弹窗分割线.deb
+Size: 3836
+MD5sum: 3da8d3090549eca566540b1d9cc51655
+SHA1: 5f17189e1a48bff1900f6b826915fe142dd16bb6
+SHA256: 76cb8785f1abdcd7db25210338894ffb5ec43db0add8941c1a918a3d5754fbf9
+Section: 插件
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: 去除弹窗分割线
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 Package: com.jade
 Version: 1.0.5
 Architecture: iphoneos-arm64
