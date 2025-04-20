@@ -13,6 +13,24 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/触控反馈.deb
+Size: 428976
+MD5sum: 845ce5be976bc7de89c208947b124ed3
+SHA1: ebc5a90a886149e0bda307faa7a6fab82cce020d
+SHA256: 88e19ef0238ba2c9ea7499e451c0d70948aa74c3dbd49784a9ccecf5cce80fc6
+Section: 你的iPhone不止于此
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/ckfk.png
+Name: Rose 触控反馈
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/ckfk.json
+
 Package: cn.zqbb.musicrotation
 Version: 0.0.3
 Architecture: iphoneos-arm64
