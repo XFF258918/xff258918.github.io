@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: net.freepip
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: …
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/FreePIP_0.0.5.deb
+Size: 4996
+MD5sum: dd649c7f149b695e712dbc22b6922e38
+SHA1: e6c893d1d8fb5615b9b3cc4cfd3fb2570af5c35c
+SHA256: 594ba6184695fbc4afce2c19e4aba5a72a1918c69fc132fb87a9dbb7a4b92bc3
+Description: 系统画中画功能增强，基于开源，优化了一些代码，改进了一些细节，长按画中画窗口切换模式
+Author: Soh Satoh,SINI
+Name: FreePIP画中画增强
+
 Package: com.mediacolor
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -177,21 +192,6 @@ Section: Tweaks
 Description: iOS版剪贴板管理器。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
-
-Package: net.freepip
-Version: 0.0.5
-Architecture: iphoneos-arm64
-Maintainer: …
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/FreePIP.deb
-Size: 4984
-MD5sum: 363a5079ad22b4be117be73ca1cd340c
-SHA1: 24ac928dcc10f45fa04676d93dccbd1841412077
-SHA256: 0fefd4e2dc46fbd3ba25a8967ddd77f2ea5128b3eb68ecafbc1733c31cd799c7
-Description: 系统画中画功能增强，基于开源，优化了一些代码，改进了一些细节，长按画中画窗口切换模式
-Author: Soh Satoh,SINI
-Name: FreePIP画中画增强
 
 Package: net.qjkqdbyx
 Version: 0.0.6
