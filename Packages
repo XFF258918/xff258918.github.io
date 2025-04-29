@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.mediacolor
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/专辑颜色.deb
+Size: 7364
+MD5sum: 81792b213c087f524233988bbda7b458
+SHA1: 7fa24e337cdceb7d8f9d07bfcc7397b2d3e0a646
+SHA256: fca1c7227e17818b2dbf6945e6793513453399d5217314e28a6c09afe807d148
+Section: Tweaks
+Description: 调整锁定屏幕的“正在播放”小部件的背景颜色，使其与专辑封面相匹配！（目前仅限iPhone）
+Author: Nathan Senter
+Name: 媒体颜色
+
 Package: love.litten.rose
 Version: 1.1.0
 Architecture: iphoneos-arm64
