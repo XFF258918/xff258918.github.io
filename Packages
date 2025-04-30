@@ -13,6 +13,23 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.twistnturn
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Maxim Shnirman
+Installed-Size: 1016
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/智能旋转.deb
+Size: 506960
+MD5sum: 25d4a1849ec8a632024a658d8f121208
+SHA1: 280c9077f055b8d710f3b55ec6d6f87ca0eeced6
+SHA256: 33fdefa0f07adc2e30344ce5d47a0e37622c7d34a4f6ee567a637787f86dc465
+Section: 系统增强
+Description: 无论你的旋转锁是锁定还是解锁，一旦智能旋转建议识别出你将设备倾斜了某个角度，它就会出现，并建议你解锁或锁定你的方向锁！
+Author: Maxim Shnirman
+Name: TwistNTurn智能旋转
+Sponsor: Maxim Shnirman
+
 Package: net.freepip
 Version: 0.0.5
 Architecture: iphoneos-arm64
