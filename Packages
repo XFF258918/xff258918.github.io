@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.nathan.trolllock
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/解锁动画.deb
+Size: 90832
+MD5sum: 0a84c52360200217ee817d681d367c0b
+SHA1: 49087a9eb3245fca46de612a17531b4945f22556
+SHA256: c7d5713e8629cb468843e1d3fe1ba152c28a26f712a8bbafb2fee821a61a1c51
+Section: Tweaks
+Priority: optional
+Description: 调整面容解锁动画
+Name: TrollLock
+
 Package: com.twistnturn
 Version: 1.3
 Architecture: iphoneos-arm64
