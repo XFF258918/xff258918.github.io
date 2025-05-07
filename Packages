@@ -20,10 +20,10 @@ Maintainer: Nathan
 Installed-Size: 428
 Depends: firmware (>=12.0), mobilesubstrate
 Filename: ./debs/解锁动画.deb
-Size: 90832
-MD5sum: 0a84c52360200217ee817d681d367c0b
-SHA1: 49087a9eb3245fca46de612a17531b4945f22556
-SHA256: c7d5713e8629cb468843e1d3fe1ba152c28a26f712a8bbafb2fee821a61a1c51
+Size: 399852
+MD5sum: 6e41e3926ea9f1cec357498e767e5c67
+SHA1: b6de0c3d789784a27bea1e852856b7d143440ebd
+SHA256: 76c4d6d6dff58e2ea1ce21f2042c0ff81c2b88f420b1df4d3b3c21b2ea3d3783
 Section: Tweaks
 Priority: optional
 Description: 调整面容解锁动画
