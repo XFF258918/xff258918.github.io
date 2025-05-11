@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.cc18
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/CC18.deb
+Size: 4132
+MD5sum: 2085739ea50df5924fe7613b5c24ad62
+SHA1: 9bbfbe08368ccc3b324b276a06dccb5af8b55ec7
+SHA256: 1d4597edd9d8b5c27c4158ae29a1a15df6ad96d35254d06dddbb9db822bc72ca
+Section: Tweaks
+Description: 控制中心圆形模块
+Author: dvntm
+Name: CC18
+
 Package: com.velvet2
 Version: 2.2
 Architecture: iphoneos-arm64
