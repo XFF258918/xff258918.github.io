@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.velvet2
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
+Filename: ./debs/Velvet2中文版.deb
+Size: 99972
+MD5sum: 7182caa40c4b5c6de82662f75c0c846e
+SHA1: 9c645c6e8b347f115513094a67662e6f4e9bab33
+SHA256: ccfe397c4f04199841d1700d9a120bebe037091db2e33563cc84f5b19d18b637
+Description: 完全可自由定制的通知横幅变色
+Author: NoisyFlake
+Name: Velvet 2 中文版
+
 Package: com.nathan.trolllock
 Version: 1.0.3
 Architecture: iphoneos-arm64
