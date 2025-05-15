@@ -13,6 +13,38 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/药丸岛.deb
+Size: 12132
+MD5sum: d9dfb716bc649d93db0c8a583300f83b
+SHA1: 564c67cf12961193f6b12ca9d162eb4e04a0934e
+SHA256: b56b69d1149a42da69000326c6684ed4688353c96ac24e2fbece9942f082d35a
+Section: Tweaks
+Description: 在14 Pro系列中隐藏不使用时的动态岛的调整！
+Author: Nathan
+Name: 药丸岛
+
+Package: com.springboardhook
+Version: 0.0.1-23
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/交互动画.deb
+Size: 15104
+MD5sum: abe0f6dfbce55c5507b8df5f55b934ed
+SHA1: 5ecd47a34b91f4c27b3a34e1af77188ff313eab2
+SHA256: e7f246ca11405618f68b42aae415bbeeabc51ad7065153b86cac930ae07b81f4
+Section: Tweaks
+Description: 桌面交互动画，仅限NathanlR越狱
+Author: SINI
+Name: SpringBoardHook
+
 Package: com.yan.bloom
 Version: 1.1.8
 Architecture: iphoneos-arm64
