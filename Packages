@@ -13,6 +13,125 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.niceios.mrshi-rootless
+Version: 1.0.0.2-235
+Architecture: iphoneos-arm64
+Maintainer: MrShi
+Installed-Size: 2352
+Depends: mobilesubstrate
+Filename: ./debs/MrShi.deb
+Size: 547636
+MD5sum: 2c3a4ecc34a9a7ca1d5ad7d2e9df1967
+SHA1: cb140335246cc17af724165a0fc478e286422f36
+SHA256: e004c28f173e8da9baf64f4de12a47dad2b7a2f0eef6fa8c1015635a85f92c52
+Section: Tweaks
+Description: 全局系统颜色自定义
+Author: MrShi
+Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
+Name: MrShi(Rootless)
+Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
+
+Package: com.simon.ccmusic
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/控制中心动画1.0.6.deb
+Size: 28708
+MD5sum: 49b5b57ea32c2c935443124341cf6713
+SHA1: 1b7073a08c935bdb28f7970c94d3fa21ce210f68
+SHA256: 2088848a79e5cad4b7cca578d240f5284b0dc82253a0444588ab91bd5641b6ec
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Name: 控制中心音乐模块动画
+
+Package: com.simon.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: ./debs/灵动岛跳舞_1.1.8.deb
+Size: 29104
+MD5sum: f0e4a1e2330362c6532d74f968f8c48f
+SHA1: 3707f1b7c626ab5d214243681c6d8df987702d6f
+SHA256: d6085a95bdba247ef8b36368123a173e48fb5520f82164518938e19dbdafe875
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Name: 灵动岛跳舞动画PLUS
+
+Package: com.simon.musiclizi
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/粒子动画1.1.7..deb
+Size: 23316
+MD5sum: 88de3565b24db86ec64e96a15dc36679
+SHA1: f5882508a4274e675e1bbfd0569d579f4e65b713
+SHA256: e7eaf1a15a13af362e22557733270c3ff8ba0f0b8f89d70527430cf412a6322b
+Section: Tweaks
+Description: 用于灵动岛粒子动画
+Author: Simon
+Name: 粒子动画
+
+Package: com.susu.ios18batteryestimate
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/锁屏充电.deb
+Size: 35788
+MD5sum: 0cb542c87a7d277b8ff460ae9ba2696b
+SHA1: a8d8b44ef50a24d85b1eebcbb45c276d077a006e
+SHA256: f1a309a3e6bc06b645c34b96f0e940df8c0912956cac2fc7d7067227bb24edab
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.reachplayer
+Version: 4.1.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 3200
+Depends: mobilesubstrate
+Filename: ./debs/音乐专辑4.1.0.deb
+Size: 1131360
+MD5sum: fd80f8df348d26a90fe8698edbe96d39
+SHA1: 9ba724a97d5048036ed9d96737b118b6c5b32868
+SHA256: f112e5aadcda8db3feaecf920542178af3c66522a5fd78f86cdad1d8ec4d38c2
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.springanimation
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/交互动画_1.1.1.deb
+Size: 15004
+MD5sum: 05690277b18322cecfa8c6f283281053
+SHA1: 240c2a91cdc5484550eed7ead085fe4c2df448d3
+SHA256: 99a48a72041be9bf441e5928a20774d253ef5e636dd198e1d42a98ce346af4f2
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
 Package: com.dynamicnotland
 Version: 1.2.4
 Architecture: iphoneos-arm64
