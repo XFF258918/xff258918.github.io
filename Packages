@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.baiy.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq：961666883））
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/皮卡丘动态开关_1.0.0.deb
+Size: 50176
+MD5sum: 81f6bfc4133480e0f20166de7bdcfbe7
+SHA1: 6011885a516c906128255d993c4d255f764cf310
+SHA256: c09d7dbd04c591e174a13180629e135ebf8dd5efa4756035ed119f78def83d9c
+Section: Tweaks
+Description: 这是一款全新的开关主题，用皮卡丘的元素来装饰你的开关，让你的开关变得可爱起来
+Author: 白衣
+Name: SwitchTheme-皮卡丘
+
 Package: com.niceios.mrshi-rootless
 Version: 1.0.0.2-235
 Architecture: iphoneos-arm64
