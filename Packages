@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: jp.akusio.milkyway2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: akusio <akusio-report@neko2.net>
+Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/MilkyWay2.deb
+Size: 49304
+MD5sum: 50ad4eef466c3bf8c87326e946f88a9e
+SHA1: b1bf71b242c4490f89fc8e2425a03d4d9b976937
+SHA256: d932de25d6d34440c411bca57890708d30f9f2877412afcf1883afebdace2f69
+Section: Tweaks
+Description: 基于原始版本的修改，修复了iOS/iPad 16+上的多任务支持
+Author: akusio <akusio-report@neko2.net>
+Name: MilkyWay2
+
 Package: com.baiy.switchtheme
 Version: 1.0.0
 Architecture: iphoneos-arm64
