@@ -1829,16 +1829,16 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SettingsWidgets小组件-Rootless
 
 Package: com.flex.lib
-Version: 1.0-3+debug
+Version: 1.0.2-6
 Architecture: iphoneos-arm64
 Maintainer: pxx917144686
 Installed-Size: 9264
 Depends: firmware (>= 9.0)
 Filename: ./debs/FLEX_Pro.deb
-Size: 2517684
-MD5sum: 674bbecb512cec2a77492ac94d06663c
-SHA1: b4138f5c0806a6f370c9811dc2b46af1f0d30735
-SHA256: 8306a58d31ae3f8f5d671578bf375aeb500e3441c2ca276f65079333f5e1adf2
+Size: 2029424
+MD5sum: 7b554803d6920ea434de7be20ae3de4a
+SHA1: 8683e8215ab587f431030c21b281bd1531fbb94a
+SHA256: 2178894292e572e76aa69b6d710a2076d7c9c9820d1fc0d96e47d46031810050
 Section: Development
 Description: FLEX (中文版) - 支持iOS 9.0及以上设备，三指触发功能
 Author: FLEX Team & pxx917144686
