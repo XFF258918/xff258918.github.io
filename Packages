@@ -13,23 +13,38 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
-Package: com.sini921.zoomanimation
-Version: 0.0.1
+Package: com.susu.reachplayer
+Version: 4.1.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 3636
+Depends: mobilesubstrate
+Filename: ./debs/苏苏音乐专辑.deb
+Size: 1141804
+MD5sum: 4787f31d955a912b56335feaa85bf304
+SHA1: 44ebb5d930c17fbb119a6d5e18e5369ff80ddf0e
+SHA256: f9093e9bc5566b03733e8bb5214a7ac65dd5e0a1569d7e292a8aa15a5f3f3bdb
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: net.zoomanimation
+Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 376
+Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/交互动画.deb
-Size: 36920
-MD5sum: 57dea536788250b76e770be18829541e
-SHA1: df8aff7ae04143de0871c63f84e14865b8b6d097
-SHA256: fa99dd1e64501e1cb45b7cb61b276ddb97170c82c7f673546adc5ac2742afcf1
-Section: 越狱插件
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。
+Size: 21240
+MD5sum: 8eca623b8c6ffe53029ab89de4ed1c9c
+SHA1: 8bc04507c9145bb7e59a250b97055ab468d40a04
+SHA256: 9ae2b2df15c392ef727b360d8514514573ef0da562e530a1c724da1423db73f6
+Description: 桌面缩放动画，灵感来自SpringAnimations插件
 Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
 Name: 交互动画
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
 
 Package: jp.akusio.milkyway2
 Version: 1.0
