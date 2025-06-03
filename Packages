@@ -13,6 +13,70 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.liuf.lddfg
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/灵动岛发光.deb
+Size: 12758
+MD5sum: f2d1718f111e968beb8d4eb159f52bd4
+SHA1: 6dcca56ede69a0a92dbf824842302d52be3e8dc6
+SHA256: 7c87bdb6a9dc32b65d4455052bd4b428ba6a5dcaebb08b4a646e8c0e52af3611
+Section: Tweaks
+Description: 夜辰私人定制 i!
+Author: liuf <1602389262>
+Name: 灵动岛发光效果
+
+Package: com.liuf.qfdz
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/灵动岛星空背景.deb
+Size: 39128
+MD5sum: 880ea6dcb9c311baba6c456990850b38
+SHA1: aba426b425bb328545daab32dadbe1ede622a54b
+SHA256: f1b2edf802ca01afbf0a8c4c08c7e1625b9622c64cc804081bf65d43785da828
+Section: Tweaks
+Description: 灵动岛星空背景效果 i!
+Author: liuf <1602389262>
+Name: 清风定制
+
+Package: com.liuf.ylld
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/音量&亮度自定义.deb
+Size: 14552
+MD5sum: f196e304026387c38a341fba1335ed7d
+SHA1: f45682287c35c436012777c9d4ecdbc3c7bf7cb3
+SHA256: aabe971fe2eef6fed3cc88c776d84d7036f96394ff9603eac78280d52b55d5ab
+Section: Tweaks
+Description: 神秘功能 i!
+Author: liuf <1602389262>
+Name: 音量亮度自定义
+
+Package: com.simon.musiclizi
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/粒子动画_1.1.8.deb
+Size: 23492
+MD5sum: 711e9550f8ef905a50b48cadeb1e68dc
+SHA1: 29e5da16e57fb37e30b7f4560b7b895f875c940e
+SHA256: a4570ba0992fc8cc115cc990ef222c811ae12ad659d4e92758e8826d103f7dc9
+Section: Tweaks
+Description: 用于灵动岛粒子动画
+Author: Simon
+Name: 粒子动画
+
 Package: com.choco.tg
 Version: 1.2-1+debug
 Architecture: iphoneos-arm64
