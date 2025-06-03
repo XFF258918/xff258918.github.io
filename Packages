@@ -13,6 +13,23 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.yan.bloom
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 2784
+Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.comet, com.yan.lottie
+Filename: ./debs/Bloom_1.2.deb
+Size: 409476
+MD5sum: 243d42651173aef18825f7c645dae0ef
+SHA1: 37a058197ee24c9caf5ff1c74afaae03279c7754
+SHA256: 4dbccaaca1ff87990cf3d98d2ff3d06c98e616efffadf8b64fc4d35dbd8f445d
+Section: Tweaks
+Description: Beautiful animated notifications.
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/bloom/icon.png
+Name: Bloom
+
 Package: com.baiy.geltouch
 Version: 5.2.0
 Architecture: iphoneos-arm64
