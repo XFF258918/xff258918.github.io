@@ -13,6 +13,69 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.baiy.geltouch
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: baiy <961666883>
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/微信图标果冻动画.deb
+Size: 13968
+MD5sum: a5c247f3c0cb5d64d9b506e46837afc3
+SHA1: d124dc9bbc224bd54a5bbb7a7bc93435ee987b89
+SHA256: 7bc097dbf8280cbdf2549b71bea4fbcd60884e873b78d899e30c00f6e7f093ea
+Section: Tweaks
+Description: 微信图标点击动画动效，模拟果冻弹性反馈！
+Author: baiy
+Name: 微信图标果冻动画
+
+Package: com.liuf.musicfg
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/音乐播放器发光.deb
+Size: 14256
+MD5sum: 024233d3dc19897cd3802eed09c7ec1d
+SHA1: d6a2f63ca3c5325668124d1a6d139149e5f4bb48
+SHA256: aad67b8d8447b5815fd557aeeee2507d963b3e969f068f4c004f98f7c9d2e257
+Section: Tweaks
+Description: 夜辰私人定制 i!
+Author: liuf <1602389262>
+Name: 音乐播放器发光效果
+
+Package: com.liuf.wxyj
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./debs/微信圆角5.2.0.deb
+Size: 27996
+MD5sum: 40d6c21ee96714f93405a83bb4017c6b
+SHA1: ab3015380e1a98cd5be647e05ea3a10f178bc109
+SHA256: 8c8adddfc69f87223e0227757f9d18c2c1f1cc8c176b2643dbb5539d08ef1303
+Section: Tweaks
+Description: 微信内部分视图圆角化 i!
+Author: liuf <1602389262>
+Name: 微信圆角Pro
+
+Package: com.yuanjiao
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: 123
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/全局圆角1.6.9.deb
+Size: 201180
+MD5sum: a9fc36bceef355587f2ce7d9ecf1463a
+SHA1: e7333c74f11e584967f24ec6fb67ef71d514f9ad
+SHA256: 21adf5226345a2bfbd6ef7a03bb50aa803377de424f8c7dfe6dec6db173322a5
+Section: 微信插件
+Description: 微信全局圆角，随便输入数字验证
+Author: 123
+Name: 全局圆角
+
 Package: com.liuf.lddfg
 Version: 1.0.0
 Architecture: iphoneos-arm64
