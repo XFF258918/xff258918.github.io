@@ -13,6 +13,65 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.baiy.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq：961666883））
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/可爱的牙齿动态开关.deb
+Size: 27752
+MD5sum: c43f16be4b9d53b43bfee76d257cd548
+SHA1: ea6e4b5f6b22724aa416324333a4555f944c2176
+SHA256: 2c9c91c5031e46f2339f3d4ac82c82f962bd02336c1503e8143d9485824fd15c
+Section: Tweaks
+Description: 灵感源自牙齿线条的极简开关，圆润而洁净，温润而纯粹。滑动之间，如唇齿轻启，带来指尖柔滑的精致体验
+Author: 白衣
+Name: SwitchTheme——牙齿
+
+Package: com.developlab.appbadge
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: developlab
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/AppBadge.deb
+Size: 8108
+MD5sum: 235a4f3f368da877d2770834dd9cf486
+SHA1: 9b4ce4c455ec857d67dae99740906ab96055a2e3
+SHA256: 68e904135f8bcdb7e6a78fbe204ebb8fc28f736bd9b364f163cf7241735379c0
+Section: Tweaks
+Description: 在刘海或灵动岛下显示app icon和名称
+Author: developlab
+Name: AppBadge
+
+Package: me.afhook
+Version: 3.5.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1024
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/改个应用3.5.0.deb
+Size: 106912
+MD5sum: 4c45d873c31ffb0a5505a54661455b51
+SHA1: 6e1cc428c3f5068ca608b9a527a61af4d50b5b89
+SHA256: 53975634484a726eb4cdd3639bc6a2fcc60ebedf56e6c96070b1d703658c2502
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
+Description: 快速更改应用的名字、图标、机型、角标、版本号等。
+  快速更改应用的名字、图标、机型、角标、版本号等。
+ -随心所欲地更改系统应用和三方应用的名字
+ -从系统相册任意选择图片剪切为应用的图标
+ -手动选择软件内置机型和自定义需要的机型
+ -只需要点击一次就永久生效的清空角标功能
+Tag: purpose::extension
+Author: 小哥哥 <zhulongfei28@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
+Dev: zhulongfei28
+Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
+Name: 改个应用-专业的应用修改软件
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.yan.bloom
 Version: 1.2
 Architecture: iphoneos-arm64
