@@ -17,6 +17,22 @@ Package: com.baiy.switchtheme
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: baiy（qq：961666883））
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/日出日落开关.deb
+Size: 37444
+MD5sum: 04b9435e0161f9fbb1671bef9fab6290
+SHA1: 55c166a6e0cd289e5dcd039d39eb24f3de07d713
+SHA256: 5063565dc089389e05066448a3a34f3202ac82cb8a6d01c5a45dda3907422ef8
+Section: Tweaks
+Description: 这是一款款全新的开关主题，通过模拟太阳升起与落下的动画效果，带来极致流畅且视觉惊艳的替代体验。
+Author: 白衣
+Name: SwitchTheme
+
+Package: com.baiy.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq：961666883））
 Installed-Size: 240
 Depends: mobilesubstrate
 Filename: ./debs/可爱的牙齿动态开关.deb
