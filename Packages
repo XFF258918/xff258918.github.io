@@ -13,6 +13,28 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: me.lochook
+Version: 5.3.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 636
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/定个位5.3.0.deb
+Size: 59368
+MD5sum: cfbecdef7e24addf627ba52ca06ff408
+SHA1: e997071114dec9d038da77fde78128cac7a6e71c
+SHA256: 1baa1bd18a1dca90552993650ed0e50a2ed79e4168d7e89ee3a4825ddac5952f
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationsetDp
+Description: 免费的虚拟定位，实现让您的iPhone在任意地点穿越。
+Tag: purpose::extension
+Author: 小哥哥 <zhulongfei28@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationsetDp
+Dev: zhulongfei28
+Icon: file:///Library/PreferenceBundles/LocSet.bundle/location.png
+Name: 定个位-专业的位置修改软件
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.baiy.switchtheme
 Version: 1.0.0
 Architecture: iphoneos-arm64
