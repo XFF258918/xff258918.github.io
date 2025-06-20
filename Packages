@@ -13,6 +13,39 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.freepip
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh & SINI
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/FreePIP.deb
+Size: 41236
+MD5sum: f4e3494d2417343731566e620ad2e68b
+SHA1: 73e62b57d09a6a13befc9c8d5a80cda22983e098
+SHA256: edaf2eec462e1386b76490b3aa5296e985279f96b842c973e6e265c2c290b936
+Section: 越狱插件
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
+Author: Soh Satoh & SINI
+Name: FreePIP
+
+Package: com.zqbb.hello.keyboard.ai
+Version: 3.6.5-9
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 4980
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: cn.zqbb.hello.keyboard.ai
+Filename: ./debs/Hello键盘侠.deb
+Size: 1346136
+MD5sum: 044410993d448aa9e41b768c4aa7e8cd
+SHA1: dc1384fbc1fb8e63fad3e0020a003f3d3a9c0b4f
+SHA256: 30a59dbe08e17ef56a80072d0274c28ec9812c1c800d04c68966a8ecdc2d3c97
+Section: Tweaks
+Description: Quickly activate AI mode.
+Author: zqbb
+Name: HelloKeyboardAI
+
 Package: me.lochook
 Version: 5.3.0
 Architecture: iphoneos-arm64
