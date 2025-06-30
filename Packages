@@ -13,6 +13,154 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.baiy.keyboardhook
+Version: 2.0-6+debug
+Architecture: iphoneos-arm64
+Maintainer: baiy(QQ：961666883)
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/自定义键盘.deb
+Size: 44120
+MD5sum: 4efa7a5cfe6392fc65939957a8205c3d
+SHA1: 7d3402dddb2e46c0f18aa819af44519e15e1b9a5
+SHA256: 65852bf032bc196486ffa4792968b0f1351c59a00df73d73962305e719e489df
+Section: Tweaks
+Description: 关于系统输入法和微信输入法的一些自定义，让键盘更个性化！
+Author: baiy
+Name: KeyboardHook
+
+Package: com.joecii.cc
+Version: 1.0.0-25
+Architecture: iphoneos-arm64
+Maintainer: joecii
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/半越狱控制中心.deb
+Size: 25550
+MD5sum: 9c6538980ec4d36fba6a871c7fdb1b56
+SHA1: 5589412cdd47cb9c8870f4e89583181527f9df9e
+SHA256: 2162e3a92fec3e45bfd5a02948d3f7670ab2c7e38d5ca5e29360115017ed494e
+Section: Tweaks
+Description: 控制中心增强
+Author: joecii
+Name: CC
+
+Package: com.junzai.jellyanimation
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: ZENGBAIJUN
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/控制中心全局果冻弹性动画.deb
+Size: 18624
+MD5sum: c4aae4e73dc3fd8ce10b845d2a59420a
+SHA1: a76265d47ef28776b941ba60ac48d79efe3fb63b
+SHA256: 9b3850ea20ae78273e093a1df6b1672b1f6923c94af89a575b7b76c491a145fa
+Section: Tweaks
+Description: 控制中心全局果冻弹性动画
+Author: ZENGBAIJUN
+Name: JellyAnimation
+
+Package: com.liuf.plugins
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/插件管理增强.deb
+Size: 19356
+MD5sum: 97cb353220e25fe18f4f3c353d947b01
+SHA1: df433b7fa8766e4050021f245da258a708c9a63a
+SHA256: 05a2205551a876ef17c689bc7e62cb433b634df00e97ab921106d34ae1e18238
+Section: Tweaks
+Description: 插件管理妹插件自定义插件名及版本号 强迫症福音 i!
+Author: liuf <1602389262>
+Name: 插件管理增强
+
+Package: com.liuf.wxyj
+Version: 1314
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debs/微信圆角.deb
+Size: 37368
+MD5sum: fcb5e635fd9d113209f49950473f7a8b
+SHA1: 79dad13ae47af9b73cd7ff8ae7e5de34423e8321
+SHA256: ce6f451a8d0da76304606854f9023d83d54394b3eb44215a14d81304e319c89c
+Section: Tweaks
+Description: 微信内部分视图圆角化 i!
+Author: liuf <1602389262>
+Name: 微信圆角Pro
+
+Package: com.sini921.reachplayer
+Version: 2.22-1
+Architecture: iphoneos-arm64
+Maintainer: ETHN & SINI & 鲨鱼
+Installed-Size: 4344
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/音乐专辑.deb
+Size: 3523820
+MD5sum: 30f7c263b3a8728ce494097e5550e295
+SHA1: 00afc10ad65fdd18e7c9050681e0d922d6f6a9d9
+SHA256: 85858efd44acf8fd8a961345946daf71aa7ff8c3bdc48781931d6f2eef515513
+Section: 越狱插件
+Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。感谢原作者@ETHN的开源，感谢@鲨了个鱼的帮助
+Author: ETHN & SINI & 鲨鱼
+Icon: https://sini921.github.io/repo/sileodepiction/icon/reachplayer.png
+Name: ReachPlayer【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/reachplayer/js.json
+
+Package: com.sini921.simpleswitch
+Version: 0.0.1-14
+Architecture: iphoneos-arm64
+Maintainer: 绘梨衣 & 橙子欣
+Installed-Size: 516
+Depends: mobilesubstrate
+Filename: ./debs/日月无根-14.deb
+Size: 63192
+MD5sum: 4c4b4cd448100efe56a82b228ea44900
+SHA1: e469e02bafc47f629df9f806d996ac0745179e43
+SHA256: eb812f501ab88f7db48cfb0126b76592ff6242246e0c79cf6925146dc34f8453
+Section: 越狱插件
+Description: 日月开关
+Author: 绘梨衣 & 橙子欣
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sunmoonswitch.png
+Name: SunmoonSwitch【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/sunmoonswitch/js.json
+
+Package: com.susu.ccuiplayer
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/控制中心播放器背景.deb
+Size: 48272
+MD5sum: 60b52cc90bacab3e953c6fa91413048a
+SHA1: e145028c02765fd8f7b48cd3ee3924d1fc3235be
+SHA256: d21ebeccb3760deaec5846adf86183dd93497c8662ec67ec7a0a8cbdb8c599b5
+Section: Tweaks
+Description: 控制中心音频窗口背景插件
+Author: SuSu
+Name: CCUIPlayer
+
+Package: com.susu.floatingmusicplayer
+Version: 1.0.0-10
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/悬浮音乐播放器.deb
+Size: 64136
+MD5sum: 8ef4414c0c9fc35e0d2289fe22e82e37
+SHA1: 41691ceea61428841256f0e1964524693cb2570d
+SHA256: a842afe57f2b11df7ee609eaabc78e0ba4990fb93c00dccfc8e3833639ae4819
+Section: Tweaks
+Description: 悬浮音乐播放器，支持在任何应用上方悬浮显示
+Author: SuSu
+Name: 悬浮音乐播放器
+
 Package: com.freepip
 Version: 0.0.6
 Architecture: iphoneos-arm64
